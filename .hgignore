@@ -1,0 +1,13 @@
+syntax: glob
+.suo
+*.pdb
+*.log
+*.tlog
+*/Debug/*
+*/Release/*
+*.db
+*.filters
+*.user
+*.opendb
+*.swp
+*.exe
